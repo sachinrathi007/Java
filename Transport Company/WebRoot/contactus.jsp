@@ -21,14 +21,14 @@
                  
                   
                   
-                <p><a href="http://www.javatpoint.com">Click here for details</a></p>
+                <p><a href="http://www.myTest.com">Click here for details</a></p>
                 </div>
                 <div id="events">
                   <h2>FEATURED EVENTS</h2>
                   <ul>
-                  <li><a href="http://www.javatpoint.com">More Project</a></li>
+                  <li><a href="http://www.myTest.com">More Project</a></li>
                     <li><a href="http://www.cstpoint.com">C,C++ Tutorial</a></li>
-					<li><a href="http://www.javatpoint.com/forum/">The forum</a></li>
+					<li><a href="http://www.myTest.com/forum/">The forum</a></li>
                     <li><a href="http://www.cstpoint.com">Html,Sql Tutorial</a></li>
                   </ul>
                 </div>

@@ -54,7 +54,7 @@ out.print("<li><a href='contactus.jsp'>CONTACT US</a></li>");
 				   </span>
 				 
 				   <p>
-					<a href="http://www.javatpoint.com">Click here for details</a>
+					<a href="http://www.myTest.com">Click here for details</a>
 				  </p>
 		  </div>
 		  

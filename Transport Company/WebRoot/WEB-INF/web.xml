@@ -16,7 +16,7 @@
   <param-value>Kumar</param-value>
   </context-param>
   <listener>
-  <listener-class>com.javatpoint.MyListener</listener-class>
+  <listener-class>com.myTest.MyListener</listener-class>
   </listener>
   
 </web-app>
