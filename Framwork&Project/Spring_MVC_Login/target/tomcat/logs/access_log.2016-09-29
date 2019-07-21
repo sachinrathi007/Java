@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [29/Sep/2016:00:21:09 +0530] "POST /LoginMVC/submitDB HTTP/1.1" 500 3634 http-bio-8080-exec-9 1025
+0:0:0:0:0:0:0:1 - - [29/Sep/2016:00:51:25 +0530] "POST /LoginMVC/submitDB HTTP/1.1" 200 595 http-bio-8080-exec-1 1181
+0:0:0:0:0:0:0:1 - - [29/Sep/2016:00:51:37 +0530] "GET /LoginMVC/loginWS HTTP/1.1" 200 2416 http-bio-8080-exec-1 582
+0:0:0:0:0:0:0:1 - - [29/Sep/2016:00:51:41 +0530] "POST /LoginMVC/submitDB HTTP/1.1" 200 2440 http-bio-8080-exec-1 2296

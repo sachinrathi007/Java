@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [28/Sep/2016:22:51:53 +0530] "GET /LoginMVC/login HTTP/1.1" 200 2408 http-bio-8080-exec-1 2579
+0:0:0:0:0:0:0:1 - - [28/Sep/2016:22:51:53 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [28/Sep/2016:22:52:03 +0530] "POST /LoginMVC/submitDB HTTP/1.1" 500 3634 http-bio-8080-exec-4 1717
